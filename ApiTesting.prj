@@ -3,6 +3,7 @@
    <description></description>
    <name>ApiTesting</name>
    <tag></tag>
+<<<<<<< HEAD
    <UUID>137d201a-804e-42f9-9078-6c4ff6c35f25</UUID>
    <migratedVersion>5.9.0</migratedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
@@ -25,4 +26,28 @@
       </systemFolderList>
    </sourceContent>
    <type>WEBSERVICE</type>
+=======
+   <UUID>31f41510-3f74-465d-b2e7-ae7845dc242e</UUID>
+   <migratedVersion>5.9.0</migratedVersion>
+   <pageLoadTimeout>0</pageLoadTimeout>
+   <sourceContent>
+      <sourceFolderList>
+         <sourceFolderConfiguration>
+            <url>Include/scripts/groovy</url>
+         </sourceFolderConfiguration>
+      </sourceFolderList>
+      <systemFolderList>
+         <systemFolderConfiguration>
+            <url>Include/scripts/groovy</url>
+         </systemFolderConfiguration>
+         <systemFolderConfiguration>
+            <url>Include/features</url>
+         </systemFolderConfiguration>
+         <systemFolderConfiguration>
+            <url>Include/config</url>
+         </systemFolderConfiguration>
+      </systemFolderList>
+   </sourceContent>
+   <type>GENERIC</type>
+>>>>>>> branch 'master' of https://github.com/hamza20101465/ApiTesting.git
 </Project>
